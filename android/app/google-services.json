@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550805564296",
+    "project_id": "coop-5ec64",
+    "storage_bucket": "coop-5ec64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550805564296:android:447a10babdbe88f10ce83d",
+        "android_client_info": {
+          "package_name": "com.example.coop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550805564296-d0oft8sa1vrb4r5q03q89f9tt5rv1al0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpw1TV7ZDxk0-EvBTOLPIFgoZs8J181KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550805564296-d0oft8sa1vrb4r5q03q89f9tt5rv1al0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
